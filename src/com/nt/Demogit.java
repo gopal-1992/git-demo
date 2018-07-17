@@ -8,7 +8,11 @@ public class Demogit {
 			System.out.println("grt job gopal");
 		}
 	}
-
+          
+	
+	public void addmethod(){
+	System.out.println("added new  method");
+	}
 	public static void main(String[] args) {
 		System.out.println("main method");
 	}
